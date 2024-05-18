@@ -15,7 +15,7 @@ export default function HeaderLinks({ email, phoneNumber }) {
       </h4>
       <h4>
         <a
-          href="https://www.linkedin.com/in/syedgibran/"
+          href="https://www.linkedin.com/in/syedgibran"
           className="flex gap-2 items-center"
         >
           <RiLinkedinBoxFill /> LinkedIn

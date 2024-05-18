@@ -14,12 +14,18 @@ export default function HeaderLinks({ email, phoneNumber }) {
         <FaPhone /> {phoneNumber}
       </h4>
       <h4>
-        <a href="#" className="flex gap-2 items-center">
+        <a
+          href="www.linkedin.com/in/syedgibran"
+          className="flex gap-2 items-center"
+        >
           <RiLinkedinBoxFill /> LinkedIn
         </a>
       </h4>
       <h4>
-        <a href="#" className="flex gap-2 items-center">
+        <a
+          href="https://github.com/5yedG1br4n"
+          className="flex gap-2 items-center"
+        >
           <IoLogoGithub /> GitHub
         </a>
       </h4>

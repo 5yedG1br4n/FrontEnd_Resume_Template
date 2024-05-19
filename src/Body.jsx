@@ -33,6 +33,12 @@ export default function Body() {
                 JavaScript (ES6+) / JavaScript Libraries
               </li>
               <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">
+                React
+              </li>
+              <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">
+                Bootstrap
+              </li>
+              <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">
                 REST APIs
               </li>
               <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">

@@ -10,7 +10,7 @@ export default function Body() {
               Summary
             </h2>
             <p>
-              Detail-oriented Front End Developer with more than 2 years
+              Detail-oriented Front End Developer with more than 3 years
               experience working with HTML, CSS, Javascript, React and Tailwind
               and dedicated to implementing A11Y accessibility practices to
               ensure inclusive user experiences. Highly adept at both

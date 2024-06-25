@@ -127,23 +127,21 @@ export default function Body() {
         <h2 className="font-Montserrat text-2xl font-bold tracking-wide mb-2">
           Projects
         </h2>
-        <h3 className="text-xl mb-1">
-          <span className="font-bold">Client:</span> TelemedRX
-        </h3>
+
         <h4 className="mb-1">
-          <span className="font-bold">Description:</span> TelemedRx digitizes
-          the working of doctors and makes it easy to manage patients through an
-          online platform that handles online appointments, patient health
-          records, and consultations. The platform currently serves dietician
-          and pediatrician modules, with a gynecologist module under
-          development.
+          <span className="font-bold">Description:</span> Worked on a tool that
+          digitalized the working of doctors and makes it easy to manage
+          patients through an online platform that handles online appointments,
+          patient health records, and consultations. The platform currently
+          serves dietician and pediatrician modules, with a gynecologist module
+          under development.
         </h4>
         <h4 className="mb-1">
           <span className="font-bold">Role:</span> Front End Developer
         </h4>
         <h4 className="mb-1">
           <span className="font-bold">Technologies Used:</span> JavaScript,
-          HTML, CSS, React, RESTful APIs, Git
+          HTML, CSS, React, RESTful APIs, Git, Redux
         </h4>
         <h4 className="font-bold">Responsibilities:</h4>
         <ul className="mb-1 ml-4 list-disc">

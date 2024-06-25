@@ -36,6 +36,9 @@ export default function Body() {
                 React
               </li>
               <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">
+                Redux / Redux Toolkit
+              </li>
+              <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">
                 Bootstrap
               </li>
               <li className="bg-slate-600 text-slate-100 py-2 px-4 rounded-md">

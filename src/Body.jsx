@@ -73,7 +73,7 @@ export default function Body() {
             <h3 className="font-bold text-xl">
               Front End Developer, EION Technology Pvt.Ltd
             </h3>
-            <h4 className="font-bold mb-2">Hyderabad, Feb 2022 - Present</h4>
+            <h4 className="font-bold mb-2">Hyderabad, April 2021 - Present</h4>
             <ul className="list-disc ml-4">
               <li>
                 Assisted in the development of client websites and internal
